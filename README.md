@@ -1,4 +1,11 @@
-# SAS Analytics for IoT - Alternate ETL Process
+# Archived repository
+
+### Notice: The functionality provided in this repository has been incorperated into the SAS Viya code base. Hence, the repository will no long accept submissions or offer support.
+
+---------
+
+# SAS Analytics for IoT - Alternate ETL Process [Archived repo]
+
 
 The SAS Analytics for IoT Enhanced Data Load Macro is an alternate tool that can be used to load the data mart for the SAS Analytics for IoT application. It provides additional functionality and can be used to load the data mart when the traditional data load macro does not meet your needs. You should already be familiar with the production ETL process.
 
